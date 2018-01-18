@@ -15,3 +15,16 @@ no means its professional or OO programming i was just playing around with it.
 with in mind that each script should or must function when one script dies after an deprecated, update or something.
 
 good luck.
+
+
+
+easy start for windows users:
+
+download WAMP
+install WAMP
+use php7
+change mysql root password
+insert mysql user and table
+
+open port
+register or forward domain to your computer tada done.
