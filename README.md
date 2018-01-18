@@ -20,11 +20,11 @@ good luck.
 
 easy start for windows users:
 
-download WAMP
-install WAMP
-use php7
-change mysql root password
-insert mysql user and table
+download WAMP.
+install WAMP.
+use php7.
+change mysql root password.
+insert mysql user and table.
 
-open port
+open port 80 on router.
 register or forward domain to your computer tada done.
