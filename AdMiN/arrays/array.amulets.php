@@ -1,0 +1,5 @@
+<?php 
+#!/usr/local/bin/php
+$amulets=array(
+'iron amulet','amulet luck','amulet undead','angels amulet','eye etlich','dracula tooth','shark tooth','dragon ear','rabbit feet','outerspace amulet','filled dragons eye','superior iron amulet','superior dragon teeth','magic rabbit feet','magic dragon eye','ancient war ear','superior diamont eye','hart of undead king','grim eye of magic','superior elemental eye','angels war ear','superior shark brains','superior dragons eye','doom cristal of magic','dark amulet of masters','superior chaos amulet','undead kings amulet','spiked amulet of beasts','diablos stone of magic','dragons hart of fire','stoned amulet of weed','champions amulet of wizards','sparkling ice amulet','freezing chaos amulet','elephant tale amulet','fireballs amulet','amulet of deftone','chaos amulet of stealth','angels amulet of wizards','mamma goldstone amulet','superior shamans amulet','chaos supermans eye amulet','replenishing amulet','wizards ancient amulet','unicorn amulet of love','heavenly amulet of might','unfizzled amulet of kings','answer amulet of questions','diamond dark amulet','golden amulet of shadow','platinum shadow of bain');
+?>

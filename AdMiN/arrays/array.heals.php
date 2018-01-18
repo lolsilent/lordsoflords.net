@@ -1,0 +1,5 @@
+<?php 
+#!/usr/local/bin/php
+$heals=array(
+'minor rest','minor blessing','health breath','minor healing','minor recovery','major rest','major blessing','major healing','major recovery','minor rejuvenation','major rejuvenation','mega healing','mega recovery','mega rejuvenation','super healing','super recovery','super rejuvenation','blood lust','soul survivor','guardian breath','guardian health','guardian breath','guardian health','guardian salvation','guardian resurrection','guardian life','guardian rebirth','guardian heaven','angels breath','angels health','angels salvation','angels resurrection','angels life','angels rebirth','angels heaven','heavenly health','heavenly salvation','heavenly life','heavenly breath','heavenly resurrection','sexy bitches','nurse from heaven','angels of big resurrection','angels of life rain','reborn angels','super angels','heavenly mega health','heavenly mega salvation','heavenly mega life','heavenly mega breath','superior angel of life','superior angel of rebirth','immortality');
+?>

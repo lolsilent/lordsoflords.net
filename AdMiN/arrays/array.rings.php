@@ -1,0 +1,5 @@
+<?php 
+#!/usr/local/bin/php
+$rings=array(
+'wooden ring','power ring','magic ring','blessed ring','blood ring','shrine ring','demons ring','ring angels','stone of gordon','heavens stone','heavenly crystal','chilled crystal','ring of great fire','devarones stone','dark stone of light','ancient war stone','superior diamont stone','stone of undead king','grim stone of magic','superior elemental stone','angels war ear','superior shark brains','superior dragons eye','shadow diamond of magic','dark ring of masters','superior chaos ring','undead kings ring','spiked ring of beasts','diablos stone of magic','dragons ring of fire','stoned ring of weed','champions ring of wizards','sparkling ice ring','freezing chaos ring','elephant tale ring','fireballs ring','ring of deftone','chaos ring of stealth','angels ring of wizards','mamma goldstone ring','superior shamans ring','chaos supermans eye ring','replenishing ring','wizards ancient ring','unicorn ring of love','heavenly ring of might','unfizzled ring of kings','answer ring of questions','diamond dark ring','golden ring of shadow','platinum elemental stone');
+?>
