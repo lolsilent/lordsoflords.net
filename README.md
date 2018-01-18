@@ -29,7 +29,7 @@ insert mysql user and table.
 open port 80 on router.
 register or forward domain to your computer tada done.
 
-
+paypal IPN or bitpay implementation checkout their support site or manual.
 
 
 thesilent.com
