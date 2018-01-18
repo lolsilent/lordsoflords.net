@@ -28,3 +28,17 @@ insert mysql user and table.
 
 open port 80 on router.
 register or forward domain to your computer tada done.
+
+
+
+
+Donations always welcome:
+BTC 19GN7AhK6iw8U9tm9vQn6iLVzdZtG4YQts
+BCH 1KV8cuoJwfHyEpdkTKxhfyq1pg2MeHN1mY
+DASH Xoxz8pHMGqPWj5vQwMP1hLeZtpmrzuz4ib
+ETC 0x4F84Fe7dd584f98448Df0A055910A5bde57DD66b
+ETH 0xAAd712f27948aEf66b5a129EF8140A5B19A179a5
+LTC LRySr4YjjzwPj9fsdknUd4Z7HhLY9epfsK
+DOGE DSgNuqtvG1zWVt5648ZVsJn2LsDzHzhCT7
+FTC 6eaqJ3Lc2sbWG5DcUxCoX5C29tR3muhw2F
+XRP rwLuArEjzQ1zeFfxzQm5rheVxLvbYo9UJs
