@@ -18,9 +18,9 @@ if(!empty($stats) and $row->xp >= $next_level){
 if($row->level>1000){$amount=round($row->level/1000);}else{$amount=1;}
 if($fp>0 or $row->level>100){$amount*=5;}
 
-$update_it.=", `".$stats_array[$stats]."`=".$row->$stats_array[$stats]."+".($amount*5).", `level`=$row->level+$amount, `life`=".(($row->level+$amount)*150);
+$update_it.=", `".$stats_array[$stats]."`=".$row->{$stats_array[$stats]}."+".($amount*5).", `level`=$row->level+$amount, `life`=".(($row->level+$amount)*150);
 print '<b>You leveled up '.lint($amount).' levels!</b>';
-$row->$stats_array[$stats]+=($amount*5);$row->level+=$amount;
+$row->{$stats_array[$stats]}+=($amount*5);$row->level+=$amount;
 $next_level=next_level();
 	}
 }
